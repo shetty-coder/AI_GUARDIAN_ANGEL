@@ -1,0 +1,9 @@
+sleep_hours,steps,voice_interaction,meal_taken,independence_score
+7,3000,5,1,90
+6,2500,4,1,85
+5,1000,2,0,60
+8,4000,6,1,95
+4,800,1,0,50
+7,3200,5,1,92
+6,2700,4,1,88
+5,900,2,0,55
